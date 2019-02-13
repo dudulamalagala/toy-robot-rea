@@ -1,4 +1,4 @@
-# REA Group Toy Robot Simulator Challenge
+# Toy Robot Simulator Challenge
 
 A simple simulator representing a toy robot moving on a tabletop.
 
@@ -30,11 +30,3 @@ Building with `mvn clean package` already runs the unit tests.
 
 `mvn clean verify` would also run integration tests, but none are present as of yet.
 
-## Author
-
-David Christ <david.christ@genitopia.org>
-
-## Acknowledgments
-
-- The people of REA Group Ltd for the opportunity
-- Recruiter Ryan Lynch of Greythorn Pty Ltd for the referral

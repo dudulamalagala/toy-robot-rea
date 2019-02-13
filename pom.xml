@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.reagroup.rearobot</groupId>
-    <artifactId>rea-robot</artifactId>
+    <groupId>com.rea.toyrobot</groupId>
+    <artifactId>toy-robot</artifactId>
     <version>1.0.0</version>
 
     <build>
@@ -28,7 +28,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.reagroup.rearobot.Main</mainClass>
+                            <mainClass>com.rea.toyrobot.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
